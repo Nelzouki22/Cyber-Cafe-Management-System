@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cyber Cafe Management System", "Cyber Cafe Management System.pyproj", "{25486DA3-F046-4893-BC3D-8A590EE8C4B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25486DA3-F046-4893-BC3D-8A590EE8C4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25486DA3-F046-4893-BC3D-8A590EE8C4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FA7C8D5-45E4-4F25-91B8-223C399A462E}
+	EndGlobalSection
+EndGlobal
